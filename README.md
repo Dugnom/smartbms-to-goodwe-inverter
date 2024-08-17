@@ -1,0 +1,1 @@
+# smartbms-to-goodwe-inverter
